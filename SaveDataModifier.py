@@ -13,52 +13,51 @@ import xml.etree.ElementTree as ET
 
 class Modifier(object):
 
-    def __init__(self, byte_order, data):
+
+    def __init__(self, byte_order, data, properties):
         """ byte_order: '>' big_endian for Android
                         '<' little_endian for iOS
         """
-        self.__data = bytearray(data)
-        self.__byte_order = byte_order
+        self._data = bytearray(data)
+        self._byte_order = byte_order
+        self._known_properties = properties
 
-        self.__known_properties = {
-            "cat_food": ("L",7),
-            "xp": ("L",75),
-            "rare_ticket": ("L",8368),
-            "ticket": ("L",8364),
-            "id": ("10s", 104153)
-        }
 
 
     def __getattr__(self, name):
-        if self.__known_properties.has_key(name):
-            v = self.__known_properties[name]
-            return struct.unpack_from(self.__byte_order+v[0],self.__data,v[1])[0]
+        if self._known_properties.has_key(name):
+            v = self._known_properties[name]
+            d = struct.unpack_from(self._byte_order+v[0],self._data,v[1])
+            if len(d) > 1:
+                return d
+            else:
+                return d[0]
         else:
-            raise AttributeError("name")
+            raise AttributeError
 
     def __setattr__(self, name, value):
-        if self.__dict__.has_key("__known_properties") and self.__dict__["__known_properties"].has_key(name):
-            v = self.__dict__["__known_properties"][name]
-            struct.pack_into(self.__byte_order+v[0], self.__data, v[1], value)
+        if self.__dict__.has_key("_known_properties") and self.__dict__["_known_properties"].has_key(name):
+            v = self._known_properties[name]
+            struct.pack_into(self._byte_order+v[0], self._data, v[1], value)
         else:
             super(Modifier,self).__setattr__(name, value)
 
 
     @property
     def signature(self):
-        return self.__data[-32:]
+        return self._data[-32:]
 
     @signature.setter
     def signature(self, value):
-        self.__data = value
+        self._data[-32:] = value
 
     @property
     def computed_hash(self):
-        return hashlib.md5("battlecats"+self.__data[:-32]).hexdigest()
+        return hashlib.md5("battlecats"+self._data[:-32]).hexdigest()
 
     @property
     def known_properties(self):
-        return self.__known_properties.keys()
+        return dict( (k,self.__getattr__(k)) for k in self._known_properties.keys())
 
     def save_to_file(self, filename):
         self.signature = self.computed_hash
@@ -72,23 +71,40 @@ class iOS(Modifier):
             filename = "SAVE_DATA"
         with open(filename, "rb") as f:
             data = bytearray(f.read())
-        Modifier.__init__(self, "<", data)
+
+        properties = {
+            "cat_food": ("L",7),
+            "xp": ("L",75),
+            "rare_ticket": ("L",8374),
+            "ticket": ("L",8370),
+            "tracking_id": ("9s", 104154),
+            "medal":("192L",2504)
+        }
+        Modifier.__init__(self, "<", data, properties)
 
     def save_to_file(self, filename):
         Modifier.save_to_file(self, filename)
         with open(filename, "wb") as f:
-            f.write(self.__data)
+            f.write(self._data)
 
 class Android(Modifier):
     def __init__(self, filename=None):
         if filename is None:
             filename = "save.xml"
-        self.__xmltree = ET.parse(filename)
-        data = base64.b64decode(self.__xmltree.getroot().find("./string[@name='SAVE_DATA']").text)
-        Modifier.__init__(self, ">",data)
+        self._xmltree = ET.parse(filename)
+        data = base64.b64decode(self._xmltree.getroot().find("./string[@name='SAVE_DATA']").text)
+        properties = {
+            "cat_food": ("L",7),
+            "xp": ("L",75),
+            "rare_ticket": ("L",8368),
+            "ticket": ("L",8364),
+            "tracking_id": ("9s", 104154)
+        }
+
+        Modifier.__init__(self, ">",data, properties)
 
     def save_to_file(self, filename):
         Modifier.save_to_file(self, filename)
-        node = self.__xmltree.getroot().find("./string[@name='SAVE_DATA']")
-        node.text = base64.b64encode(self.__data)
-        self.__xmltree.write(filename)
+        node = self._xmltree.getroot().find("./string[@name='SAVE_DATA']")
+        node.text = base64.b64encode(self._data)
+        self._xmltree.write(filename)
