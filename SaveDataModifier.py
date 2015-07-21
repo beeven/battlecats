@@ -13,7 +13,6 @@ import xml.etree.ElementTree as ET
 
 class Modifier(object):
 
-
     def __init__(self, byte_order, data, properties):
         """ byte_order: '>' big_endian for Android
                         '<' little_endian for iOS
@@ -63,6 +62,10 @@ class Modifier(object):
         self.signature = self.computed_hash
         pass
 
+    def extract_data(self, filename):
+    	with open(filename, "wb") as f:
+    		f.write(self._data)
+
 
 
 class iOS(Modifier):
@@ -108,3 +111,4 @@ class Android(Modifier):
         node = self._xmltree.getroot().find("./string[@name='SAVE_DATA']")
         node.text = base64.b64encode(self._data)
         self._xmltree.write(filename)
+

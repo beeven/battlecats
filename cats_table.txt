@@ -1,0 +1,205 @@
+﻿ID	Cat Name (Alt)	Evolved Name / True form	English Release / Obtain Status
+X	God Cat	N/A	Initial - require 2000 XP
+0	Cat	Macho-cat / Mohawk-cat	Unlocked from initial
+1	Tank Cat	Wall cat / Eraser Cat	Progress story mode (stage 1) - require 500 XP to unlock
+2	Axe Cat	Brave Cat / Dark Knight Cat	Progress story mode (stage 3) - require 2000 XP to unlock
+3	Gross Cat	Sexy Legs Cat / Macho Legs Cat	Progress story mode (stage 6) - require 3000 XP to unlock
+4	Cow Cat	Giraffe Cat / Lion Cat	Progress story mode (stage 9) - require 4000 XP to unlock
+5	Bird Cat	UFO Cat / The Flying Cat	Progress story mode - require 5000 XP to unlock
+6	Fish Cat	Whale Cat / Island Cat	Progress story mode - require 6000 XP to unlock
+7	Lizard Cat	Dragon Cat / King Dragon Cat	Progress story mode - require 7000 XP to unlock
+8	Titan Cat	Mythical Titan Cat / Jamiera Cat	Progress story mode - require 8000 XP to unlock
+9	Actress Cat	Mother Cat / Beefcake Cat	Progress story mode (stage 7) - require 150 Cat Food to unlock
+10	Kung Fu Cat	Drunken Master Cat/ Dancer Cat	Progress story mode (stage 36) - require 240 Cat Food to unlock
+11	Mr. 	Super Mr. / Hyper Mr. 	Progress story mode - require 160 Cat Food to unlock
+12	Bondage Cat	Bondage CatNEO/ Ultimate Bondage Cat	Progress story mode - require 150 Cat Food to unlock
+13	Dom Cat	Executioner/ Dark Lazer	Progress story mode - require 150 Cat Food to unlock
+14	Cats in a Box	Cat Gang / Heavy Assault C.A.T	Progress story mode - require 90 Cat Food to unlock
+15	Panties Cat	Leaf Cat/ Lollycat	Progress story mode - require 90 Cat Food to unlock
+16	Moneko	MISS Moneko	Progress story mode - unlock by friend code
+17	Tricycle Cat	Wild Cat/ Unicycle Cat	Daily Login Reward
+18	Ninja Cat	Ninja Frog Cat / Flying Ninja Cat	Progress story mode (stage 6) - require 50 Cat Food to unlock
+19	Zombie Cat	Devil Cat / Skelecat	Progress story mode - require 120 Cat Food to unlock
+20	Samurai Cat	Knight Cat / Pastry Cat	Progress story mode - require 90 Cat Food to unlock
+21	Sumo Cat	Madame the Sumo/ Riceball Cat	Progress story mode - require 150 Cat Food to unlock
+22	Boogie Cat	Samba Cat / Gato Amigo	Progress story mode - require 90 Cat Food to unlock
+23	Skirt Cat	Tights Cat / Loincloth Cat	Progress story mode - require 90 Cat Food to unlock
+24	Valkyrie Cat	Great Valkyrie Cat	Progress story mode - complete chapter 2 for the first time
+25	Bahamut Cat	Crazed Bahamut Cat	Progress story mode - complete chapter 3 for the first time
+26	Princess Punt (Kerihime)		"N/A, graphic and official EN description in-data"
+27	Cat Princess		"N/A, graphic and official EN description in-data"
+28	Capsule Cat		"N/A, graphic and official EN description in-data"
+29	Masked Cat		"N/A, graphic and official EN description in-data"
+30	Bodhisattva Cat	Avalokitesvara Cat	Available in rare gacha
+31	Delinquent Cat	Angry Delinquent Cat	Available in rare gacha
+32	Hip hop Cat	Dancing Flasher Cat	Available in rare gacha
+33	Kotatsu Cat	Sadako Cat	Available in rare gacha
+34	Nekoluga	Unknown Cat	Available in rare gacha - event limited
+35	Nerd Cat	Hacker Cat	Available in rare gacha
+36	Swimmer Cat	Butterfly Cat	Available in rare gacha
+37	Pogo Cat	Masai Cat	Available in rare gacha
+38	Wheel Cat	Solar Cat	Available in rare gacha
+39	Apple Cat	Face Cat	Available in rare gacha
+40	Bath Cat	Sexy Bathtub Cat	Available in rare gacha
+41	Salon Cat	Paris Cat	Available in rare gacha
+42	Ice Cat	Ice Queen Cat	Available in rare gacha - event limited
+43	Cat Machine	Cat Machine Mk2	Available in rare gacha - event limited
+44	Lesser demon Cat	Greater Demon Cat	Available in rare gacha - event limited
+45	Geisha Cat		"N/A, Graphic in-data, no description"
+46	Jurassic Cat	Jurassic Cat Sitter	Available in rare gacha
+47	Viking Cat	Thor Cat	Available in rare gacha
+48	Pirate Cat	Captain Cat	Available in rare gacha
+49	Thief Cat	Phantom Thief Cat	Available in rare gacha
+50	Bishop Cat	Monk Cat	Available in rare gacha
+51	Fortune Teller Cat	Fisherman Cat	Available in rare gacha
+52	Shaman Cat	Necromancer Cat	Available in rare gacha
+53	Evangelist Cat	Filibuster Cat	Obtain by clearing legend mode (?)
+54	Type 10		"N/A, Graphic in-data. no description"
+55	Witch Cat	Socreress Cat	Available in rare gacha
+56	Archer Cat	Cupid Cat	Available in rare gacha
+57	Marauder Cat	Berserker Cat	Available in rare gacha - event limited
+58	Swordsman Cat	Sword Master Cat	Available in rare gacha
+59	Baby Cat	Cat Babies	Available in rare gacha - event limited
+60	Bronze Cat	Michaelangelo Cat	Obtain as drop in time-limited stage
+61	Sushi Cat	Fried Shrimp Cat	Available in rare gacha
+62	Vending Machine Cat	Vending Machine Cat MkII	"N/A, Graphic and Description in-data"
+63	Sports Day Cat	Kidnapper Cats	Obtain as drop in time-limited event
+64	Swordsman		"N/A, graphic in data, missing description"
+65	Cow Princess		"N/A, graphic in data, missing description"
+66	KHM48		"N/A, graphic in data, missing description"
+67	Chibigau		"N/A, graphic in data, missing description"
+68	Enforcer		"N/A, graphic in data, missing description"
+69	Sleeping Beauty		"N/A, graphic in data, missing description"
+70	Salaryman Cat	Grudge Cat	Obtain as item drop in time-limited event
+71	Sanada Yukimura	Wargod Yukimura	Available in rare gacha - event limited
+72	Maeda Keiji	Wargod Keiji	Available in rare gacha - event limited
+73	Oda Nobunaga	Wargod Nobunaga	Available in rare gacha - event limited
+74	Reindeer Fish Cat	Sashimi Cat	Obtain as drop in time-limited event
+75	Windy	Windy type α	Available in rare gacha - event limited
+76	Thundia	Thundia type β	Available in rare gacha - event limited
+77	Droid Cat	Droid Cat Mk2	Obtain as drop in time-limited event
+78	Space Cat	Major Space Cat	Obtain as drop in time-limited event
+79	Adult Cat	Sick cat	Obtain as drop in time-limited event
+80	Evil Cat	Gentleman Cat	Obtain as drop in time-limited event
+81	Doll Cats	Cat-o-tron	Obtain as drop in time-limited event
+82	Blue Ninja Cat		"N/A, Graphic in-data, missing description"
+83	Sodom	Earth King Sodom	Available in rare gacha - event limited
+84	Megidora	Holy Dragon Megidora	Available in rare gacha - event limited
+85	Vars	Dragon King Vars	Available in rare gacha - event limited
+86	Kamukura	God Dragon Kamukura	Available in rare gacha - event limited
+87	Raiden	Dragonslayer Raiden	Available in rare gacha - event limited
+88	Rope Jump Cat	Pair Rope Jump Cat	Obtain as drop in time-limited event
+89	Nimue	Neutralization Type Nimue	"N/A, Graphic in-data, missing description"
+90	Monkey King	SSS Monkey King	"N/A, Graphic in-data, missing description"
+91	Crazed Cat	Crazed Macho Cat	Obtain as drop in time-limited event
+92	Crazed Tank Cat	Crazed Wall Cat	Obtain as drop in time-limited event
+93	Crazed Axe Cat	Crazed Brave Cat	Obtain as drop in time-limited event
+94	Crazed Gross Cat	Crazed Sexy Legs Cat	Obtain as drop in time-limited event
+95	Crazed Cow Cat	Crazed Giraffe Cat	Obtain as drop in time-limited event
+96	Crazed Bird Cat	Crazed UFO Cat	Obtain as drop in time-limited event
+97	Crazed Fish Cat	Crazed Whale Cat	Obtain as drop in time-limited event
+98	Crazed Lizard Cat	Crazed Dragon Cat	Obtain as drop in time-limited event
+99	Crazed Titan Cat	Crazed M. Titan Cat	Obtain as drop in time-limited event
+100	Maiden Cat		Obtain as drop in time-limited event
+101	Clone Elle		"N/A, Graphic in-data, missing description"
+102	Red Marron		"N/A, Graphic in-data, missing description"
+103	Singer Cat		"N/A, Graphic in-data, missing description"
+104	Koi Cat		Obtain as drop in time-limited event
+105	Kuu	Kuu type γ	Available in rare gacha - event limited
+106	Kai	Kai type μ	Available in rare gacha - event limited
+107	Coppermine	Coppermine type κ	Available in rare gacha - event limited
+108	3 Brothers Cat		"N/A, Graphic in-data, missing description"
+109	Madam Bride	Madam King	"N/A, can be obtained in future event , playable"
+110	Seresu		"N/A, Graphic in-data, missing description"
+111	Nono		"N/A, Graphic in-data, missing description"
+112	Oruga		"N/A, Graphic in-data, missing description"
+113	Norun		"N/A, Graphic in-data, missing description"
+114	Yoichi		"N/A, Graphic in-data, missing description"
+115	Seramu		"N/A, Graphic in-data, missing description"
+116	Fuu		"N/A, Graphic in-data, missing description"
+117	Aura		"N/A, Graphic in-data, missing description"
+118	Rei		"N/A, Graphic in-data, missing description"
+119	Wyburn		"N/A, Graphic in-data, missing description"
+120	More Warlock		"N/A, Graphic in-data, missing description"
+121	Merc		"N/A, Graphic in-data, missing description"
+122	Vacation Queen	Office Lady Cat	"N/A, can be obtained in future event , playable"
+123	Bean Cats	Brah Cats	Obtained from friend code
+124	Date Masamune	Wargod Masamune	Available in rare gacha - event limited
+125	Takeda Shingen	Wargod Shingen	Available in rare gacha - event limited
+126	Clockwork Cat	Puppetmaster Cat	Obtained as drop in time-limited stage
+127	Flower Cat	Cooldown Cat	Obtain by opening backdrop door several times
+128	Vengeful Cat	Groucho Cat	"N/A, Obtained as drop in time-limited stage"
+129	Gold Cat	Gold Macho Cat	Available in rare gacha
+130	Ururun Wolf	Ururun Cat	Can be obtained by clearing a certain Legend stage
+131	Neneko	Super Neneko	Obtain in time-limited event
+132	Kung Fu Cat X	Drunken Master Cat X	Obtain as drop in time-limited event
+133	Hikakin		"N/A, missing graphics and description"
+134	Urashima Taro	Guardian Gamereon	Available in rare gacha - event limited
+135	The Grateful Crane	Super Galaxy Cosmo	Available in rare gacha - event limited
+136	Momotaro	The Peach Angels	Available in rare gacha - event limited
+137	Kasa Jizo	Jizo's Moving Castle	Available in rare gacha - event limited
+138	Princess Kaguya	The Death Moon	Available in rare gacha - event limited
+139	Nekondo		"N/A, missing description, playable"
+140	Squish Ball Cat	Muscleman Cat	"N/A, playable"
+141	God	Secret God	"N/A, playable"
+142	Tutorial		"N/A, missing graphics and description"
+143	Nurse Cat	Heartful Nurse Cat	Available in rare gacha - event limited
+144	Cat Base Mini		"N/A, missing graphics and description"
+145	Cat Gunslinger		Available in rare gacha
+146	Stilts cat		Available in rare gacha
+147	Tin Cat (lit: burikineko)		Available in rare gacha
+148	Rocker Cat		Available in rare gacha
+149	Mer-Cat(Man-fish cat / lit: Neko nin-sakana)		Available in rare gacha
+150	Juliet Cat		Available in rare gacha
+151	Weightlifter Cat		Available in rare gacha
+152	Figure Skating Cats		Available in rare gacha
+153	Cat Toaster		Available in rare gacha
+154	Hoop Cat (lit: Neko fuu-pu )		Obtained as drop in time-limited stage
+155	Chicken Cat (Nobenyan)		"N/A, missing graphics and description"
+156	Drury Swordsman		"N/A, missing some graphics, not playable"
+157	Nubobo		"N/A, missing graphics"
+158	Uesugi Kenshin		Available in rare gacha - event limited
+159	Kalisa		Available in rare gacha - event limited
+160	ユーリンチー (lit:Yu-rinchi-)	 ??? (Golden Yurinchi)	"N/A, missing graphics and description"
+161	Crazed Kerihime	Crazed Kerihime CC	"N/A, missing graphics and description"
+162	"Ayanokōji Shō (綾小路 翔, Ayanokōji Shō, Show)"		"N/A, missing graphics and description"
+163	"Saotome Hikaru (早乙女 光, Saotome Hikaru, Hikaru)"		"N/A, missing graphics and description"
+164	"Saionji Hitomi (西園寺 瞳, Saionji Hitomi, Tommy)"		"N/A, missing graphics and description"
+165	"Hoshi Guranmanie (星 グランマニエ, Hoshi Guranmanie, Ranma)"		"N/A, missing graphics and description"
+166	"Shiratori Shōchikubai (白鳥 松竹梅, Shiratori Shōchikubai, Matsu)"		"N/A, missing graphics and description"
+167	"Yankee Cat (ネコヤンキー, Nekoyanke-)"		"N/A, missing graphics and description"
+168	"Asiluga (アシルガ, Ashiruga)"		Available in rare gacha - event limited
+169	"Kubiluga (クビルガ, Kubiruga)"		Available in rare gacha - event limited
+170	"Tecoluga (テコルガ, Tekoruga)"		Available in rare gacha - event limited
+171	"Balaluga (バララガ, Bararaga)"		Available in rare gacha - event limited
+172	"Li'l Nyandam (コニャンヅム, Ko(domo) Nyandum)"		Can be obtained by clearing a certain Legend stage
+173	"Baby Mola（JP name: 厨房マンボウ, Chūbōmanbou, kitchen sunfish )"	Youngman Mola	Available in rare gacha - event limited. The kitchen part can be read as Kid-hen (Kid of a hen / chicken = chicks).
+174	"Mola King (マンボ王, ManbouŌ, Sunfish King )"	Living Legend	Available in rare gacha - event limited
+175	"Meowla Meowla (にゃんぼう, Nyanbou)"	Catorpedo	Available as part of time limited collabs event
+176	"Marshmallow Cat (マシュマロにゃん, Mashumaronyan)"	Gross-mallow cat	Available as part of time limited event
+177	"Dioramos (覇龍ディオラムス, Supreme Dragon Dioramusu)"	Supreme Dragon King Dioramusu	Available in rare gacha - event limited
+178	"Mob Cat(極道にゃんこ, Gokudonyanko)"		"N/A, Data exists, but no system slot assigned"
+179	"タクヤとユキ (Lit: Takuya to Yuki, Takuya & Yuki)"		N/A
+180	"謎の少女ユキ (Lit: Nazo no shōjo Yuki,Mysterious Girl Yuki )"		"Replaced into ""Dummy"" instead"
+181	"ゆきにゃん (Lit: Yukinyan ,Snow Cat )"		N/A
+182	183-1	183-2	"Appears as buggy basic cat in BCJP, previously was filled by Mr.Ninja on BCEN. But later data download moves Mr.Ninja in BCEN to follow BCJP 184 thus this slow is empty on BCEN as well now."
+183	Nyanko Kart R (Rare Cat)	Nyanko Kart G	N/A
+184	Mr.Ninja	Lily	"Not released yet, playable"
+185	Harushuto		N/A
+186	Kooneria (Cornelia)		
+187	Yuuvensu		N/A
+188	Misutika		
+189	Aroisu		
+190	Shitoruiyu		N/A
+191	Titi		N/A
+192	Yamaoka Minori (山岡実乃里)	Queen Minorin (クイーンみのりん)	"Something about ""Gals Paradise 2015"""
+193	Nakamura Kanae (中村奏絵)	Queen Kanī (クイーンかにー)	"Something about ""Gals Paradise 2015"", too, please check PONOS' JP twitter page for more information"
+194	Akira (アキラ)	Shadow Akira (シャドウ・アキラ)	Available in rare gacha - event limited (the first anti-alien cat)
+195	Saionji Meka-ko (西園寺メカ子 Saionji meka-ko)	Doctor Dr. Meka-ko (ドクトルDr.メカ子)	Available in rare gacha - event limited
+196	"Cat Man Father (キャットマンダディ Kyattomandadi, Cat Man Daddy? )"	"? (キャットマンダーク kyattoman daaku, Cat Man Dark?)"	Available in rare gacha - event limited
+197	Psychic Cat (サイキックネコ saikikku neko)	Neo Psychic Cat (ネオサイキックネコ neo saikikku neko)	Available in rare gacha (like Green Hill and Neo Green Hill)
+198	Onmyouji Cat (ねこ陰陽師)	Magical Girl Cat (魔法少女ねこ mahou shoujo neko)	Available in rare gacha (any anime reference?)
+199	Surfer Cat (ネコサーファー Nekosāfā)	Drifting Cat (ネコ漂流)	Available in rare gacha
+200	Metal Cat	Metal Macho Cat	unknown (a Cat Unit with Metal Enemy's ability)
+201	Drum Band Cat (ドラムメニャー doramumenyaa)	Placard Cat (プラカードにゃん Purakādo nyan)	treasure drop in Space Cyclone Stage
+202	"Little Basket Dumpling Cat (小籠包にゃんこ Shōronpō nyan ko, Alt: Chi(isai)kagotsutumi-nyanko)"	"Large Basket Dumpling Cat (大籠包にゃんこ Ōgomori tsutsumi nya n ko, Alt: Da(i)kagotsutumi-nyanko)"	"unknown (this Cat comes from BCCN), Expected EN name would be basket-dumpling cat and large basket-dumpling cat OR simply dim-sum cat and large dim-sum cat"
