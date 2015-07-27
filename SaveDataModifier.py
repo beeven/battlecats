@@ -63,8 +63,12 @@ class Modifier(object):
         pass
 
     def extract_data(self, filename):
-    	with open(filename, "wb") as f:
-    		f.write(self._data)
+        with open(filename, "wb") as f:
+            f.write(self._data)
+
+    def replace_data(self, filename):
+        with open(filename, "rb") as f:
+            self._data = bytearray(f.read())
 
 
 
